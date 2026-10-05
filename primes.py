@@ -1,6 +1,7 @@
 limit = int(input("Enter the limit: "))
 
 print("Prime numbers:")
+print("Prime numbers latest:")
 
 for num in range(2, limit + 1):
 
